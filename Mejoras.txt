@@ -1,0 +1,2 @@
+* Solucionar inconveniente de alerta de error en formulario al cargar pacientes con campos vacíos.
+* Añadir imagen de fondo.
